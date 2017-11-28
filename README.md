@@ -1,2 +1,3 @@
 # su17-test-repo
-A test repository whole teaching git to su17.
+Test repository while teaching git to su17.
+Created on a rainy November day.
